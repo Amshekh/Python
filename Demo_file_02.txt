@@ -1,0 +1,1 @@
+Hey! We created new file using Python code, and now we are writing this content in it.

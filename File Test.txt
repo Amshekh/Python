@@ -1,0 +1,2 @@
+
+ Hey! Here we are using file handling in Python.
