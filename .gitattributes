@@ -1,0 +1,4 @@
+# relating some non-detectable files with Python Language
+
+*.jpg linguist-detectable=true
+*.jpg linguist-language=Python
